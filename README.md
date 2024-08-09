@@ -1,9 +1,9 @@
 # 👾 PokeApi
 
 - 😏 PokeApi is a technichal interview to showcase my skills
-- 🚩 Angular 18 (No standAlone)
 - 🤩 4 Hours project
 
+##🚩 Angular 18 (No standAlone)
 
 ## 🟢 Good things
 
